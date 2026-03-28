@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# nieszablonowe z cw i wyk
+.idea/
+*.sln.iml
